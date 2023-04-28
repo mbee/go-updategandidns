@@ -1,0 +1,10 @@
+github.com/go-gandi/go-gandi v0.6.0 h1:RgFoevggRRp7hF9XsOmWmtwbUg2axhe2ygEdd6Mtstc=
+github.com/go-gandi/go-gandi v0.6.0/go.mod h1:9NoYyfWCjFosClPiWjkbbRK5UViaZ4ctpT8/pKSSFlw=
+github.com/jpillora/backoff v1.0.0 h1:uvFg412JmmHBHw7iwprIxkPMI+sGQ4kzOWsMeHnm2EA=
+github.com/jpillora/backoff v1.0.0/go.mod h1:J/6gKK9jxlEcS3zixgDgUAsiuZ7yrSoa/FX5e0EB2j4=
+github.com/peterhellberg/link v1.1.0 h1:s2+RH8EGuI/mI4QwrWGSYQCRz7uNgip9BaM04HKu5kc=
+github.com/peterhellberg/link v1.1.0/go.mod h1:gtSlOT4jmkY8P47hbTc8PTgiDDWpdPbFYl75keYyBB8=
+github.com/rdegges/go-ipify v0.0.0-20150526035502-2d94a6a86c40 h1:31Y7UZ1yTYBU4E79CE52I/1IRi3TqiuwquXGNtZDXWs=
+github.com/rdegges/go-ipify v0.0.0-20150526035502-2d94a6a86c40/go.mod h1:j4c6zEU0eMG1oiZPUy+zD4ykX0NIpjZAEOEAviTWC18=
+moul.io/http2curl v1.0.0 h1:6XwpyZOYsgZJrU8exnG87ncVkU1FVCcTRpwzOkTDUi8=
+moul.io/http2curl v1.0.0/go.mod h1:f6cULg+e4Md/oW1cYmwW4IWQOVl2lGbmCNGOHvzX2kE=
